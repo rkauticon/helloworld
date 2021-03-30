@@ -1,6 +1,3 @@
 # helloworld
-<<<<<< deadlyjoke
-Wenn ist das Nuntstuck git und Slotermeyer?
-=======
-Two Peanuts were walking down der Straße
->>>>>> main
+Wenn ist das Nunstuck git und Slotermeyer?
+Ja, Beiherhund das oder die Flipperwaldt gersput!
